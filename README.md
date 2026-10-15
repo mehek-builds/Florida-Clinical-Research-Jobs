@@ -1,6 +1,6 @@
 # Florida Clinical Research Jobs (Jacksonville first)
 
-**23 open clinical research jobs in Florida, CRC and CRA roles, with the Jacksonville area first at 11 US employers.** Checked 15 Oct 2026. 7 posted in the last 7 days. 2 at employers with a visa sponsorship record.
+**22 open clinical research jobs in Florida, CRC and CRA roles, with the Jacksonville area first at 11 US employers.** Checked 15 Oct 2026. 7 posted in the last 7 days. 2 at employers with a visa sponsorship record.
 
 Clinical research coordinator (CRC I and II) and clinical research associate (CRA) roles in Florida, with the Jacksonville area at the top, plus remote CRA roles open to Florida-based candidates. No senior, lead or manager titles.
 
@@ -10,7 +10,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | --- | --- | --- |
 | [Jacksonville area](lists/jacksonville.md) | 1 | 1 |
 | [Rest of Florida](lists/rest-of-florida.md) | 11 | 7 |
-| [Remote CRA roles (US)](lists/remote-cra.md) | 11 | 5 |
+| [Remote CRA roles (US)](lists/remote-cra.md) | 10 | 5 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
@@ -33,7 +33,6 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Premier Research** | [In-House Clinical Research Associate II, Sponsor-Dedicated (Contract)](https://trylitos.com/job/7dafe91b-5295-45e5-a76f-464d4f5a5b33?utm_source=github&utm_campaign=florida-clinical-remote-cra) | United States of America |  | Oct 14 |  |
 | **ICON plc** | [CRA](https://trylitos.com/job/2b79c443-b476-4628-80d1-64eb87c7381a?utm_source=github&utm_campaign=florida-clinical-remote-cra) | Dallas, TX; Philadelphia, PA; Boston, MA; Por |  | Oct 9 |  |
 | **ICON plc** | [Clinical Research Associate - SOAR](https://trylitos.com/job/a373d085-b285-4c88-be82-c2ef108aecf4?utm_source=github&utm_campaign=florida-clinical-remote-cra) | Nashville, TN; Tennessee; Kentucky |  | Oct 5 |  |
-| **ICON plc** | [CRA II](https://trylitos.com/job/ca1d206d-edf2-4079-919f-155783ead76e?utm_source=github&utm_campaign=florida-clinical-remote-cra) | Hungary, Budapest; Korea, Seoul; North Caroli |  | Sep 30 |  |
 | **ICON plc** | [Clinical Research Associate Cross Therapeutic](https://trylitos.com/job/7f83019a-1d99-4cbf-a8bc-d714a4a6dea4?utm_source=github&utm_campaign=florida-clinical-remote-cra) | Chicago, IL; Illinois |  | Sep 21 |  |
 | **Worldwide Clinical Trials** | [In-house Clinical Research Associate II - Oncology](https://trylitos.com/job/239627f9-f6d4-406d-865b-0057a449803d?utm_source=github&utm_campaign=florida-clinical-remote-cra) | Virtual United States North Carolina |  | Sep 16 |  |
 | **Syneos Health** | [CRA - Healthy Volunteer Phase I (ClinPharm) (Home-Based - Salt Lake City)](https://trylitos.com/job/10123f05-4b57-4e14-980f-1e429dbd8602?utm_source=github&utm_campaign=florida-clinical-remote-cra) | USA-UT-Remote; USA-CA-Remote |  | Sep 9 |  |
