@@ -1,6 +1,6 @@
 # 1 jacksonville area roles
 
-**1 roles at 1 companies.** Checked 15 Oct 2026. Jacksonville, Orange Park, St. Augustine, Ponte Vedra, Fernandina Beach and Fleming Island.
+**1 roles at 1 companies.** Checked 20 Oct 2026. Jacksonville, Orange Park, St. Augustine, Ponte Vedra, Fernandina Beach and Fleming Island.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
